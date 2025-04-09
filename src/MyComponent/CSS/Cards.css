@@ -1,0 +1,19 @@
+.coffes {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin: 20px;
+  flex-wrap: wrap;
+  padding-left: 7em;
+}
+
+.card {
+  width: 25em;
+  border: 0.5px solid lightslategray;
+  padding: 2em;
+}
+
+.card img {
+  width: 100%;
+  height: 22em;
+}

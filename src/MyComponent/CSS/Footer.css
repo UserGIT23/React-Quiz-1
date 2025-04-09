@@ -1,0 +1,13 @@
+.footer {
+  /* ; */
+
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  background: #000;
+  color: #fff;
+}
+
+.main-content {
+  padding-bottom: 60px; /* match footer height */
+}
